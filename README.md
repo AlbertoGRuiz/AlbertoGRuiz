@@ -131,11 +131,21 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertogruiz" alt="albertogruiz" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=albertogruiz" alt="albertogruiz" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertogruiz&show_icons=true&locale=en&layout=compact" alt="albertogruiz" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertogruiz&show_icons=true&locale=en&layout=compact" alt="albertogruiz" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albertogruiz&show_icons=true&locale=en" alt="albertogruiz" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertogruiz&show_icons=true&locale=en" alt="albertogruiz" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertogruiz&" alt="albertogruiz" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertogruiz&" alt="albertogruiz" /></p>
