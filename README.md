@@ -1,4 +1,5 @@
-# Welcome to My Profile! 👋 👨‍💻💡🌐🔧🤖
+# Welcome to My Profile! 👋 👨‍💻💡🌐🔧🤖 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertogruiz&label=Profile%20views&color=0e75b6&style=flat" alt="albertogruiz" /> </p>
 
 Hey there! I'm a dedicated Computer Engineer with a specialization in Data Science, enthusiastic about the dynamic intersection of software and the web sector. My passion lies in exploring and implementing cutting-edge technologies, particularly in the field of Artificial Intelligence.
 
@@ -128,3 +129,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertogruiz" alt="albertogruiz" /></a> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertogruiz&show_icons=true&locale=en&layout=compact" alt="albertogruiz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertogruiz&show_icons=true&locale=en" alt="albertogruiz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertogruiz&" alt="albertogruiz" /></p>
