@@ -89,10 +89,10 @@ While my main focus revolves around Data Science, I also find joy in collaborati
 - Videogames Development Tools 🎮
      <table>
       <tr>
-        <td>Unity</td>
+        <td align="center">Unity</td>
       </tr>
       <tr>
-        <td>🎲</td>
+        <td align="center">🎲</td>
       </tr>
     </table>
 
