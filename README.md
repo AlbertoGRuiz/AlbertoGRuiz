@@ -1,5 +1,4 @@
-# Welcome to My Profile! 👋 👨‍💻💡🌐🔧🤖 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertogruiz&label=Profile%20views&color=0e75b6&style=flat" alt="albertogruiz" /> </p>
+# Welcome to My Profile! 👋 👨‍💻💡🌐🔧🤖 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertogruiz&label=Profile%20views&color=0e75b6&style=flat" alt="albertogruiz" /> </p>
 
 Hey there! I'm a dedicated Computer Engineer with a specialization in Data Science, enthusiastic about the dynamic intersection of software and the web sector. My passion lies in exploring and implementing cutting-edge technologies, particularly in the field of Artificial Intelligence.
 
