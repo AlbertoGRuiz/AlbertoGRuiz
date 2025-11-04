@@ -34,10 +34,14 @@ While my main focus revolves around Data Science, I also find joy in collaborati
     <tr>
       <td align="center">BertModel</td>
       <td align="center">PyTorch</td>
+      <td align="center">VertexAI</td>
+      <td align="center">Google ADK</td>
     </tr>
     <tr>
       <td align="center">🤖</td>
       <td align="center">🔥</td>
+      <td align="center">🧠</td>
+      <td align="center">🚀</td>
     </tr>
   </table>
 
